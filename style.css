@@ -1,0 +1,33 @@
+/*
+Theme Name: WhiteBelt
+Theme URI: http://www.devdojo.com
+Description: WhiteBelt starter theme with bootstrap integration
+Author: Tony Lea
+Author URI: http://www.devdojo.com
+Version: 1.0
+Tags: Minimal, Starter Theme, Blank
+
+License: The MIT License
+
+General comments:
+Copyright: (c) 2014 DevDojo
+*/
+
+.post {
+  margin-bottom: 40px;
+}
+
+ul.unstyled {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.postTitle {
+}
+
+.postMeta {
+}
+
+.postBody {
+}
